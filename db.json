@@ -16,14 +16,9 @@
       "text": "This is feedback item 3 coming from the backend."
     },
     {
-      "id": 4,
+      "text": "added through POST request from postman.com .(Edited)",
       "rating": 8,
-      "text": "added through POST request from postman.com ."
-    },
-    {
-      "text": "This is going to be added to the json server database.",
-      "rating": 9,
-      "id": 5
+      "id": 4
     }
   ]
 }
